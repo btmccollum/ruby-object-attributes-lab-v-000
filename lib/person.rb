@@ -1,6 +1,6 @@
 class Person
-  def name 
-    @name   
+  def name
+    @name
   end
 
   def name=(person_name)
